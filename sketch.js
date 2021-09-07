@@ -153,9 +153,7 @@ function draw() {
     
   }
 
-  if(mousePressedOver(restart)) {
-    reset();
-  }
+
  
   
   drawSprites();
